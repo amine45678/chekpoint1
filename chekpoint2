@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>amine ghodbane</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navi">
+    <nav>
+<a href="#home" class="nb">home</a> <br>
+<a href="#about" class="nb">about</a><br>
+<a href="#work" class="nb">work</a><br>
+<a href="#resume"class="nb">resume</a><br>
+<a href="#contact" class="nb">contact</a><br>
+</nav>
+</div>
+<div id="home"></div>
+<center><h4 id="about">this is about section</h4>
+    <div class="bg">
+<img src="unnamed.jpg" alt="rose">
+
+
+</center>
+<br>
+<b><p> bio:
+<br>
+Deporte es una actividad física basado en el esfuerzo y necesaria para la buena salud, entonces debemos obligar a los niños a practicar deportes?Los niños en el deporte cada día en su vida diaria, las escuelas y cuando juegan compañeros anverso, ¿por qué están obligados a hacerlo deportes? Sobre todo que hay tipos de deporte que hace que el niño agresivo y violento.Pero los deportes permitido hijos obligaron a sus músculos y se olvidan de sus problemas y ayudarles a tener una personalidad fuerte* El deporte es un centro de ocio y el placer, y obligar a los niños a hacer deporte justo, ayuda a dibujar el camino correcto en su futuro no se pueden desviar a la edad de la adolescencia.
+</b>
+</p>
+
+<center><h4 id="work"> this is the work section </h4></center>
+<div class="bg">
+<p>Deporte es una actividad física basado en el esfuerzo y necesaria para la buena salud, entonces debemos obligar a los niños a practicar deportes?Los niños en el deporte cada día en su vida diaria, las escuelas y cuando juegan compañeros anverso, ¿por qué están obligados a hacerlo deportes? Sobre todo que hay tipos de deporte que hace que el niño agresivo y violento.Pero los deportes permitido hijos obligaron a sus músculos y se olvidan de sus problemas y ayudarles a tener una personalidad fuerte* El deporte es un centro de ocio y el placer, y obligar a los niños a hacer deporte justo, ayuda a dibujar el camino correcto en su futuro no se pueden desviar a la edad de la adolescencia.</p>
+</div>
+<div class="grid-container">
+<center> <h4 id="resume">this is the resume section</h4></center>
+
+<b>this is my work history</b>
+<ul>
+    <li class="grid-iteam">date :12 25 2014 <br>
+        i studie in b
+    </li>
+    <li class="grid-iteam">date :12 25 2014 <br>
+        i studie in b
+    </li>
+    <li class="grid-iteam">date :12 25 2014 <br>
+        i studie in b
+    </li>
+    <li class="grid-iteam">date :12 25 2014 <br>
+        i studie in b
+    </li>
+</ul>
+</div>
+<center> <h4 id="contact">this is the contact section </h4></center>
+
+  <ul>
+      <li><b>facebook:</b>
+    <br> facebook.com/xxxx </li>
+    <li><b>linkidin:</b>
+        <br> linkidin.com/xxxx </li>
+  </ul>
+  <form action=""></form>
+  <label>First name:</label><br>
+  <input type="text"  name="name" ><br>
+  <label>email:</label><br>
+  <input type="email"  name="email"><br>
+   <b>feedbacks:</b><br>
+   <textarea name="texti"  cols="30" rows="10"></textarea> <br>
+   <button> valider</button>
+
+</body>
+</html>
