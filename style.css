@@ -1,0 +1,125 @@
+@media (max-width: 576px) { 
+    nav{
+background-color: blue;
+}
+a{
+  color: white;
+}
+.nb{ 
+display:inline;
+
+}
+
+}
+@media (min-width: 576px) and (max-width: 768px) {
+nav{
+background-color: blue;
+
+}
+a{
+  color: white;
+  display: inline;
+}
+.nb{ 
+display:inline;
+
+}
+*{
+margin:0;
+padding:0;
+}
+}
+@media (min-width: 768px) and (max-width: 992px) {
+nav{
+background-color: blue;    
+}
+a{
+  color: white;
+  display: inline;
+}
+.nb{ 
+display:inline;
+
+}
+*{
+margin:0;
+padding:0;
+}
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+nav {
+background-color:blue;
+}
+a{
+  color: white;
+  display: inline;
+}
+.nb{ 
+display:inline;
+flex-direction: r;
+
+}
+*{
+margin:0;
+padding:0;
+}
+}
+@media (min-width: 1200px){
+nav{
+background-color:blue;
+
+}
+a{
+  color: white;
+  display: inline;
+}
+.nb{ 
+display:inline;
+
+}
+*{
+margin:0;
+padding:0;
+}
+
+}
+.bg
+{
+display: inline;
+}
+#work
+{
+display: block;
+}
+#about
+{
+display: block;
+}
+#resume
+{
+justify-self: start;
+}
+.grid-container
+{
+display: grid;
+grid-row-gap: 10px;
+grid-template-columns: 10 20 30 ;
+padding: 10px;
+}
+.grid-iteam
+{
+padding: 10px;
+font-size: 15px;
+text-align: left;
+}
+h4{
+color: blue;
+}
+p{
+color: red;
+font-family: cursive;
+}
+ul{
+color: brown;
+font-family: cursive;
+}
